@@ -45,11 +45,21 @@ The project repos are private. Email me if you’d like access to one. Each READ
 | Data | PostgreSQL, MongoDB, Supabase |
 | Development | Git, GitHub, Vite, Docker |
 
+## On building
+
+> “What I cannot create, I do not understand.”
+>
+> — [Richard Feynman](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
+
+> “Honestly, most development is about getting the details right…”
+>
+> — [Linus Torvalds](https://itwire.com/business-it-news/open-source/no-highs,-no-lows-linus-torvalds-on-25-years-of-linux)
+
 ## Contact
 
 If you’d like to work with me, email [vlallen544@gmail.com](mailto:vlallen544@gmail.com). Tell me a little about what you need.
 
-<a href="mailto:vlallen544@gmail.com"><img src="assets/contact.svg" alt="Let’s build something good — email VL Allen" width="1200"></a>
+<a href="mailto:vlallen544@gmail.com"><img src="assets/contact.svg" alt="Email VL Allen" width="1200"></a>
 
 **Email:** [vlallen544@gmail.com](mailto:vlallen544@gmail.com)  
 **GitHub:** [byte-coder-pp](https://github.com/byte-coder-pp)
