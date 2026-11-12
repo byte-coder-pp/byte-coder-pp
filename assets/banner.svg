@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">VL Allen — Web and App Developer</title><desc id="desc">Business websites, mobile apps, and digital experiences.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" fill="none" stroke="#d7d5ca" stroke-width=".5"/></pattern></defs>
+<rect width="1200" height="300" rx="12" fill="#f5f3ec"/><rect width="1200" height="300" rx="12" fill="url(#grid)"/>
+<text x="58" y="61" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#66675f">IDEAS, MADE REAL.</text>
+<text x="53" y="170" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="600" letter-spacing="-6" fill="#252621">VL Allen</text>
+<text x="58" y="224" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#55574e">Web &amp; App Developer</text>
+<text x="58" y="266" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1" fill="#66675f">WEBSITES / MOBILE APPS / DIGITAL INVITATIONS</text>
+<g transform="translate(1040 145)" stroke="#c64124" stroke-width="10"><path d="M0-70V70M-70 0H70M-50-50L50 50M-50 50L50-50"/></g>
+</svg>
