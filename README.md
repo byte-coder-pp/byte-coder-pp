@@ -13,19 +13,21 @@ I’m interested in projects that help a business reach customers, make a daily 
 - **Custom platforms** — backend APIs, database-backed features and AI-assisted workflows.
 - **Digital invitations** — engagement and wedding websites with personal design and interactive details.
 
-## Selected work
+## My repositories
 
-| Project | What I built |
-| --- | --- |
-| **JB Fitness Studio** | A fitness business website with branch pages, trainers, membership and catalogue interfaces |
-| **JB Fitness App** | A Flutter customer app, Next.js staff dashboard and NestJS API |
-| **VidyaPath** | An education hackathon platform with student/faculty workspaces and AI-assisted learning features |
-| **FixMyRoad** | A civic prototype for reporting potholes and tracking complaints |
-| **Engagement invitation** | A burgundy-and-gold invitation with an animated envelope, directions and a wardrobe guide |
-| **Wedding invitation** | A powder-blue reception website with an interactive opening and guest details |
-| **Developer portfolio** | A responsive showcase with real project screens, galleries and invitation previews |
+| Project | Repository | Focus |
+| --- | --- | --- |
+| **JB Fitness Studio** | [jbfitgym](https://github.com/byte-coder-pp/jbfitgym) | Main fitness business website |
+| **JB Fitness App** | [jbfitness_app](https://github.com/byte-coder-pp/jbfitness_app) | Flutter mobile app, staff dashboard and API |
+| **VidyaPath** | [multi-model-ai-learning-platform](https://github.com/byte-coder-pp/multi-model-ai-learning-platform) | AI-assisted education platform |
+| **FixMyRoad** | [FixMyRoad](https://github.com/byte-coder-pp/FixMyRoad) | Pothole reporting and complaint-tracking prototype |
+| **Developer portfolio** | [client-portfolio](https://github.com/byte-coder-pp/client-portfolio) | Project galleries and invitation previews |
+| **Engagement invitation** | [engagement-invitation](https://github.com/byte-coder-pp/engagement-invitation) | Burgundy/gold interactive invitation website |
+| **Wedding invitation** | [wedding-invitation](https://github.com/byte-coder-pp/wedding-invitation) | Powder-blue reception invitation website |
+| **JB Fitness — earlier website** | [jbfitnesss](https://github.com/byte-coder-pp/jbfitnesss) | Previous website iteration |
+| **JB Fitness — legacy backend** | [jbfitness](https://github.com/byte-coder-pp/jbfitness) | Earlier API/database implementation and member form |
 
-Project source repositories are currently private. Contact me to discuss a walkthrough or repository access. Prototypes, sample records and integrations awaiting configuration are identified in the individual project documentation.
+Each project README includes UI screenshots and setup details. These source repositories are private, so their links require access. Contact me for a walkthrough or to discuss repository access. Prototype content, sample records and pending integrations are labelled in the individual project documentation.
 
 ## Technologies in my work
 
